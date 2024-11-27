@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @ZAHEER-svg
-- I have every thing you need 
 
-<!---
-ZAHEER-svg/ZAHEER-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a versatile full-stack developer, I specialize in creating sleek and powerful applications that meet both aesthetic and functional needs. Skilled in React, Node.js, Python, Java, SQL, and HTML/CSS, I’m well-versed in building interactive user interfaces and optimizing backend systems. With strong expertise in WordPress, I can seamlessly develop dynamic websites with intuitive content management systems. Additionally, I have a knack for creating robust system applications that solve real-world problems. Always eager to embrace new challenges, I continuously refine my skills to stay at the forefront of technology.
